@@ -1,6 +1,14 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=312313&assignment_repo_type=GroupAssignmentRepo)
 
+
 # CISC/CMPE 204 Modelling Project
+
+This was my group project for CISC 204. I have copied the repo and included it on my github in the submitted form. 
+
+
+
+
+///ORIGINAL CONTENTS///
 
 Welcome to the major project for CISC/CMPE 204 (Fall 2020)!
 
